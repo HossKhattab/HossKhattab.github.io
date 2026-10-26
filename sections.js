@@ -239,7 +239,37 @@ const PRINTS = [
  {
   "slug": "zanussi",
   "src": "images/zanussi/04.jpg",
-  "w": 1454,
+  "w": 1280,
+  "h": 1600
+ },
+ {
+  "slug": "zanussi",
+  "src": "images/zanussi/10.jpg",
+  "w": 1280,
+  "h": 1600
+ },
+ {
+  "slug": "zanussi",
+  "src": "images/zanussi/11.jpg",
+  "w": 1280,
+  "h": 1600
+ },
+ {
+  "slug": "zanussi",
+  "src": "images/zanussi/12.jpg",
+  "w": 1280,
+  "h": 1600
+ },
+ {
+  "slug": "zanussi",
+  "src": "images/zanussi/13.jpg",
+  "w": 1280,
+  "h": 1600
+ },
+ {
+  "slug": "zanussi",
+  "src": "images/zanussi/14.jpg",
+  "w": 1280,
   "h": 1600
  },
  {
